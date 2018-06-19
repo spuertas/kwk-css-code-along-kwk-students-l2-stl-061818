@@ -7,3 +7,11 @@
       background-color: gray;
       color: blue;
     }
+    
+    .classClass {
+      text-align: center;
+      color: green;
+      background-color: yellow;
+      border: pink 15px solid;
+      font-size: 30px;
+    }
